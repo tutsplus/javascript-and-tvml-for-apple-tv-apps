@@ -1,0 +1,69 @@
+<document>
+    <stackTemplate>
+        <banner>
+            <title>Newest Tuts+ Courses</title>
+        </banner>
+        <collectionList>
+            <shelf>
+                <section>
+                    <lockup>
+                        <img src="http://localhost:9001/images/courses/1.png" width="256" height="256" />
+                        <title>JavaScript for Windows 10 Universal Apps</title>
+                    </lockup>
+                    <lockup>
+                        <img src="http://localhost:9001/images/courses/2.jpg" width="256" height="256" />
+                        <title>Mastering Script Lettering</title>
+                    </lockup>
+                    <lockup>
+                        <img src="http://localhost:9001/images/courses/3.png" width="256" height="256" />
+                        <title>Understanding Persuasive Web Design</title>
+                    </lockup>
+                    <lockup>
+                        <img src="http://localhost:9001/images/courses/4.png" width="256" height="256" />
+                        <title>How to Program Interactive Art With p5.js</title>
+                    </lockup>
+                    <lockup>
+                        <img src="http://localhost:9001/images/courses/5.jpg" width="256" height="256" />
+                        <title>Creative Concepts in Digital Painting</title>
+                    </lockup>
+                </section>
+            </shelf>
+            <shelf>
+                <section>
+                  <lockup>
+                      <img src="http://localhost:9001/images/courses/6.png" width="256" height="256" />
+                      <title>Continuous Integration Workflow</title>
+                  </lockup>
+                  <lockup>
+                      <img src="http://localhost:9001/images/courses/7.png" width="256" height="256" />
+                      <title>Introduction to Video Editing</title>
+                  </lockup>
+                  <lockup>
+                      <img src="http://localhost:9001/images/courses/8.png" width="256" height="256" />
+                      <title>Scroll Events Made Easy</title>
+                  </lockup>
+                  <lockup>
+                      <img src="http://localhost:9001/images/courses/9.png" width="256" height="256" />
+                      <title>Why Use Linux for Ruby Development?</title>
+                  </lockup>
+                  <lockup>
+                      <img src="http://localhost:9001/images/courses/10.jpg" width="256" height="256" />
+                      <title>Parse for the Back-End</title>
+                  </lockup>
+                </section>
+            </shelf>
+            <shelf>
+                <section>
+                  <lockup>
+                      <img src="http://localhost:9001/images/courses/11.jpg" width="256" height="256" />
+                      <title>Illustrating a Character for Fantasy or Sci-Fi</title>
+                  </lockup>
+                  <lockup>
+                      <img src="http://localhost:9001/images/courses/12.jpg" width="256" height="256" />
+                      <title>ON1 Photo 10 for Photographers</title>
+                  </lockup>
+                </section>
+            </shelf>
+        </collectionList>
+    </stackTemplate>
+</document>

@@ -1,0 +1,69 @@
+<document>
+    <stackTemplate>
+        <banner>
+            <title>Newest Tuts+ Tutorials</title>
+        </banner>
+        <collectionList>
+            <shelf>
+                <section>
+                    <lockup>
+                        <img src="http://localhost:9001/images/tutorials/1.jpg" width="256" height="256" />
+                        <title>Street Photography Indoors: Exploring Interior Settings</title>
+                    </lockup>
+                    <lockup>
+                        <img src="http://localhost:9001/images/tutorials/2.jpg" width="256" height="256" />
+                        <title>How to Make a Flat Design Birthday Cake in Affinity Designer</title>
+                    </lockup>
+                    <lockup>
+                        <img src="http://localhost:9001/images/tutorials/3.jpg" width="256" height="256" />
+                        <title>How to Create a News Reader With React Native: Setup and News Item Component</title>
+                    </lockup>
+                    <lockup>
+                        <img src="http://localhost:9001/images/tutorials/4.png" width="256" height="256" />
+                        <title>Photoshop in 60 Seconds: The History Panel</title>
+                    </lockup>
+                    <lockup>
+                        <img src="http://localhost:9001/images/tutorials/5.jpg" width="256" height="256" />
+                        <title>AMP Project: Will it Make Your Sites Faster?</title>
+                    </lockup>
+                </section>
+            </shelf>
+            <shelf>
+                <section>
+                  <lockup>
+                      <img src="http://localhost:9001/images/tutorials/6.jpg" width="256" height="256" />
+                      <title>10 Best Bootstrap Landing Page Templates - With Responsive Designs</title>
+                  </lockup>
+                  <lockup>
+                      <img src="http://localhost:9001/images/tutorials/7.jpg" width="256" height="256" />
+                      <title>What is Email Marketing?</title>
+                  </lockup>
+                  <lockup>
+                      <img src="http://localhost:9001/images/tutorials/8.png" width="256" height="256" />
+                      <title>Ruby/Rails Code Smell Basics 02</title>
+                  </lockup>
+                  <lockup>
+                      <img src="http://localhost:9001/images/tutorials/9.jpg" width="256" height="256" />
+                      <title>20 Cover Letter Examples</title>
+                  </lockup>
+                  <lockup>
+                      <img src="http://localhost:9001/images/tutorials/10.jpg" width="256" height="256" />
+                      <title>Dodge and Burn: Non-Destructive Local Contrast Adjustments in Adobe Photoshop</title>
+                  </lockup>
+                </section>
+            </shelf>
+            <shelf>
+                <section>
+                  <lockup>
+                      <img src="http://localhost:9001/images/tutorials/11.jpg" width="256" height="256" />
+                      <title>Look at This! A Special Portrait From Voodoo Macbeth</title>
+                  </lockup>
+                  <lockup>
+                      <img src="http://localhost:9001/images/tutorials/12.jpg" width="256" height="256" />
+                      <title>10 Tips for Improving Your Photo Manipulation Skills</title>
+                  </lockup>
+                </section>
+            </shelf>
+        </collectionList>
+    </stackTemplate>
+</document>
