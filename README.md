@@ -1,4 +1,4 @@
-# [JavaScript and TVML For Apple TV Apps][published url]
+# [Create an Apple TV App With JavaScript and TVML][published url]
 ## Instructor: [Derek Jensen][instructor url]
 
 
@@ -19,9 +19,9 @@ The thumbnail images used as sample content for this project are copyright Envat
 
 ------
 
-These are source files for the Tuts+ course: [JavaScript and TVML For Apple TV Apps][published url]
+These are source files for the Tuts+ course: [Create an Apple TV App With JavaScript and TVML][published url]
 
 Available on [Tuts+](https://tutsplus.com). Teaching skills to millions worldwide.
 
-[published url]: https://code.tutsplus.com/courses/javascript-and-tvml-for-apple-tv-apps
+[published url]: https://code.tutsplus.com/courses/create-an-apple-tv-app-with-javascript-and-tvml
 [instructor url]: https://tutsplus.com/authors/derek-jensen
